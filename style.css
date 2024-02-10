@@ -172,6 +172,7 @@ body {
     .container{
         display: block;
         background-image: none;
+        height: 37rem;
     }
 
     .container__caixa{
