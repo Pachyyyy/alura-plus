@@ -2,7 +2,7 @@
 
 <section>
     <h1>Descição do projeto</h1>
-    <p>Plataforma para divulgação da Alura e seus curso visando demonstrar seuas vantagens e planos.<br>Foi utilizada para aprendizado do autor em HTML e CSS no desenvolvimento de páginas web.</p>
+    <p>Plataforma para divulgação da Alura e seus curso visando demonstrar suas vantagens e planos.<br>Foi utilizada para aprendizado do autor em HTML e CSS no desenvolvimento de páginas web.</p>
 </section><br>
 
 <section>
